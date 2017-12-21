@@ -1,1 +1,1 @@
-# own_configs
+# Basic config files for development
